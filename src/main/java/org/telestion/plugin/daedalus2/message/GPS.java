@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package org.telestion.plugin.daedalus2.message;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -17,7 +16,4 @@ public record GPS(
     private GPS(){
         this(0, 0.0, 0.0, 0.0);
     }
-=======
-package org.telestion.plugin.daedalus2.message;public class GPS {
->>>>>>> master
 }
