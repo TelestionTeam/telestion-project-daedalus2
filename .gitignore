@@ -1,8 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 
+<<<<<<< HEAD
 !lib/.gitkeep
 
+=======
+>>>>>>> master
 ### Kotlin template
 # Compiled class file
 *.class
